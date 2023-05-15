@@ -26,7 +26,7 @@ const questions = [
       {
         type: 'input',
         message: 'Please add installation instructions for the project.',
-        name: 'install',
+        name: 'installation',
       },
 
       {
@@ -44,7 +44,7 @@ const questions = [
       {
         type: 'input',
         message: 'Please list any test instructions.',
-        name: 'test',
+        name: 'tests',
       },
 
       {
@@ -65,6 +65,11 @@ const questions = [
         type: 'input',
         message: 'Please enter your email address.',
         name: 'email',
+
+      },
+
+      {
+        // Section for questions portion 
 
       }
 
@@ -92,4 +97,5 @@ function init() {
 }
 
 // Function call to initialize app
+
 init();
