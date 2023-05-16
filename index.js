@@ -66,11 +66,6 @@ const questions = [
         message: 'Please enter your email address.',
         name: 'email',
 
-      },
-
-      {
-        // Section for questions portion 
-
       }
 
     ];
@@ -84,11 +79,11 @@ function init() {
     inquirer.prompt(questions)
 
     .then(function(answers) {
+
+      let markDown = generateMarkdown(answers);
         console.log(answers);
 
-        let markDown = generateMarkdown(answers);
-
-        console.log(markDown)
+       console.log(markDown);
 
         fs.writeFileSync('sample.md', markDown);
     
