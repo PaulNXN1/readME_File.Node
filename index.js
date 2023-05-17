@@ -51,7 +51,7 @@ const questions = [
         type: 'list',
         message: 'Please select license.',
         name: 'license',
-        choices: [ 'MIT', 'Boost', 'Apache', 'Eclispe'],
+        choices: [ 'MIT', 'Boost', 'Apache', 'Eclispe', 'No License'],
       },
 
       {
@@ -67,6 +67,7 @@ const questions = [
         name: 'email',
 
       }
+
 
     ];
 
@@ -86,6 +87,8 @@ function init() {
        console.log(markDown);
 
         fs.writeFileSync('sample.md', markDown);
+
+       
     
     })
     
