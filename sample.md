@@ -1,7 +1,7 @@
-# 12212
+# ReadME Generator
 
 ## Description 
-121
+Generates a README File based on user input and selection.
   
   
 ## Table of Contents 
@@ -9,29 +9,29 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
-
+- [License](#license)
 - [Test](#tests)
 - [Questions](#question)
   
 
 ## Installation
-2222
+node and inquirer
   
   
 ## Usage
-2222
+User INPUT!
 
 
-
-
+## License
+[![License:Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache)
 
   
 ## Contribution
-2222
+CODE
 
 ## Tests
-2222
+Don't spill water!
 
 ## Question
-Here is the email input: 1222, with the GitHub username submitted: https://github.com/12222
+Here is the email input: paulnxn1@gmail.com, with the GitHub username submitted: https://github.com/PaulNXN1
 

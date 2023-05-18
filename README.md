@@ -6,7 +6,7 @@ Basic startup javascript code was provided to each student, and with that code, 
 
 When the program runs in the terminal, the user will be prompted with questions that will create "answers" that will autopopulate the README file.  
 
-The end result will create a file, called "sample.md" - which the user can use as a README.  
+The end result will create a file, called **"sample.md"** - which the user can use as a README.  
 
 
 ## Code Contributors
@@ -19,3 +19,13 @@ Pre-written code was provided to the student. The main goal was to implement and
 
 ## Acceptance Criteria
 The assignment is complete when all aspects of the UPENN Module #9 Acceptance Criteria points are met.  The developer [Paul Nixon] has reated a text document that confirma all criteria points were met.  The document is called 'criteria.txt', which is available in the repository.  
+
+## Deployment:
+
+Below is the link to the video showing the functionality of the program / assignment.
+
+[!]
+
+Below is the link to the repository for this assignment:  
+
+[Please Click Here - Repository](https://github.com/PaulNXN1/readME_File.Node)
