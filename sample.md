@@ -1,7 +1,7 @@
 # ReadME Generator
 
 ## Description 
-Generates a README File based on user input and selection.
+Creating a README file using inquirer and node.js
   
   
 ## Table of Contents 
@@ -15,23 +15,23 @@ Generates a README File based on user input and selection.
   
 
 ## Installation
-node and inquirer
+node.js must be installed as well as the inquirer package.
   
   
 ## Usage
-User INPUT!
+Application is used for creating a quick and easy README file.
 
 
 ## License
-[![License:Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache)
+[![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   
 ## Contribution
-CODE
+Coding using proper technique and packages.
 
 ## Tests
-Don't spill water!
+In an integrated terminal, you must run node.js
 
 ## Question
-Here is the email input: paulnxn1@gmail.com, with the GitHub username submitted: https://github.com/PaulNXN1
+Here is the email input: paulnxn1@gmail.com, with the GitHub username submitted: https://github.com/PaulNXN!
 
