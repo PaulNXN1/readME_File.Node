@@ -24,7 +24,11 @@ The assignment is complete when all aspects of the UPENN Module #9 Acceptance Cr
 
 Below is the link to the video showing the functionality of the program / assignment.
 
-[!]
+
+
+https://github.com/PaulNXN1/readME_File.Node/assets/84299358/7d80fb8a-40fa-4eda-b7e4-287a4ab4f984
+
+
 
 Below is the link to the repository for this assignment:  
 
